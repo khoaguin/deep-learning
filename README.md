@@ -1,4 +1,6 @@
 # Deep Learning
+![banner](./banner.jpg "specialization banner")
+
 A Learning Journal on Deep Learning.
 
 ## Contents
